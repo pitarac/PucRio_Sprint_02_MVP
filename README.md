@@ -23,7 +23,7 @@ Na Parte I do projeto, treinamos vários modelos de Machine Learning, incluindo 
 
 ## Parte II: Deep Learning
 
-A Parte II do projeto ainda está em progresso. Nesta parte, planejamos treinar um modelo de Deep Learning para o mesmo problema de previsão de doenças cardíacas. Fique ligado para atualizações!
+Na Parte II do projeto,
 
 ## Contato
 
